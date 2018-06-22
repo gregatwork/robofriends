@@ -33,6 +33,24 @@ export const robots = [
     id: 6,
     name: 'Benny Lee',
     username: 'Bendy',
-    email: 'bendy.lee@obstablebreaker.com'
-  }
+    email: 'bendy.lee@tinyatom.com'
+  },
+  {
+    id: 7,
+    name: 'Patrick Adams',
+    username: 'Patch Adams',
+    email: 'patch@doctorsoncall.com'
+  },
+  {
+    id: 8,
+    name: 'Molly Waters',
+    username: 'Water Baby',
+    email: 'molly.waters@gmail.com'
+  },
+  {
+    id: 9,
+    name: 'Kelly Saunders',
+    username: 'Boom Boom',
+    email: 'thebigones@gmail.com'
+  },
 ];
